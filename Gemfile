@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 # make error looks better
-gem 'better_errors', '~> 2.7', '>= 2.7.1'
+gem 'better_errors', '~> 2.8'
 
 # Bulma CSS
 gem 'bulma-rails', '~> 0.9.0'
